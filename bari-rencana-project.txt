@@ -2,4 +2,7 @@ RENCANA PROJECT:
 - Website Timer
   * dengan database
 - Website cms
+  * dengan Laravel
 - Website online shop
+  * Pake React
+- Website Donasi
