@@ -3,6 +3,7 @@ RENCANA PROJECT:
   * dengan database
 - Website cms
   * dengan Laravel
+  * dengan React
 - Website online shop
-  * Pake React
+  * Pake Vue
 - Website Donasi
