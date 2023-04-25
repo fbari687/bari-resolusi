@@ -1,0 +1,4 @@
+BARI RESOLUSI:
+- Bisa html
+- Bisa css
+- Bisa javascript
