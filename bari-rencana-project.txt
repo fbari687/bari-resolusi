@@ -1,6 +1,4 @@
 RENCANA PROJECT:
-- Website Timer
-  * dengan database
 - Website cms
   * dengan Laravel
   * dengan React
